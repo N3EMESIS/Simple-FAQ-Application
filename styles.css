@@ -25,9 +25,15 @@ p {
     margin-left: 0;
 }
 
+a {
+    color: #4E80EE;
+    text-decoration: none;
+}
+
 main {
-    margin-left: 30%;
+    margin-left: 25%;
     padding: 45px;
+    width: 90%;
 }
 
 .separator {
@@ -38,10 +44,12 @@ main {
 hr {
     width: 50%;
     margin-left: 0%;
+    opacity: 50%;
 }
 
 ul, ol {
     padding-inline-start: 20px;
+    width: 85%;
 }
 
 li {
