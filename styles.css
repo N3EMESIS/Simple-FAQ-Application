@@ -11,12 +11,14 @@ header {
     margin-top: 0;
     padding-top: 28px;
     padding-left: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 25px;
     padding-right: 150px;
 }
 
 h1 {
     font-size: 36px;
+    margin-block-start: 0.50em;
+    margin-block-end: 0.50em;
 }
 
 h3 {
